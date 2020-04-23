@@ -13,6 +13,7 @@
     "axios": "^0.19.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
+    "react-router-dom": "^5.1.2",
     "react-scripts": "3.4.1",
     "swr": "^0.2.0",
     "typescript": "~3.7.2"
@@ -37,5 +38,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@types/react-router-dom": "^5.1.4"
   }
 }
